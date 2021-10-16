@@ -1,0 +1,4 @@
+
+REFF :: https://medium.com/@saikrishna.d/get-create-database-models-for-existing-database-tables-with-nodejs-python-51dc0856abd7
+
+./node_modules/sequelize-auto/bin/sequelize-auto -h 192.168.1.24 -d mr_central -u root -x wooden@123 -o /model -t tb_order -C
